@@ -1,0 +1,8 @@
+marrom lcst = hex: #c89b6b
+rgb rgba(200,155,107,255)
+
+marrom mais escuro = #9c6736
+rgba(156,103,54,255)
+
+
+target="_blank"

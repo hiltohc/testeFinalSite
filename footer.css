@@ -1,0 +1,57 @@
+footer.section2 {
+    padding: 3.75rem 0;
+  }
+
+  footer .container {
+    grid-auto-flow: column;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  footer .logo {
+    font-size: 2.25rem;
+  }
+
+  footer{
+    background: rgb(255, 255, 255);  
+  }
+  
+ .footer-int{
+   width: 1000px;
+   margin: auto;
+ }
+
+  footer .logo{
+    display: inline-block;
+    margin-bottom: 1.5rem;
+  }
+  
+  footer .brand{
+    color: #c89b6b;
+    margin-bottom: 0.75rem;
+    text-align: center;
+  }
+  
+  footer i {
+    font-size: 1.5rem;
+    color:  #c89b6b
+  }
+  
+  footer .social a {
+    grid-auto-flow: column;
+    display: inline-block;
+    transition: .3s;
+  }
+  
+  footer .social {
+    display: flex;
+    gap: 2rem;
+    margin-left: 43%;
+    margin-top: 35px;
+  }
+  
+  footer .social a:hover{
+    transform: translateY(-5px);
+  }
+
+  
